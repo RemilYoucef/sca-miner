@@ -1,6 +1,8 @@
 # SCA-Miner
 Subgroup Discovery with Hierarchical Target Concepts: Application to Java Heap Memory dumps
 
+<img  alt="" src="./overview.png" style="width: 100%;" />
+
 ## Data:
 The data file contains the input files required to run our solution dubbed SCA-Miner, this folder contains 3 sub-folders:
 
