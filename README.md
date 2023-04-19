@@ -1,6 +1,7 @@
 # SCA-Miner
 Subgroup Discovery with Hierarchical Target Concepts: Application to Java Heap Memory dumps
 
+## Overview
 <img  alt="" src="./overview.png" style="width: 100%;" />
 
 ## Data:
